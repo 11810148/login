@@ -1,0 +1,73 @@
+body{
+width: 100vw;
+height: 100vh;
+
+background-image: url(./images/david-marcu-78A265wPiO4-unsplash.jpg);
+
+
+background-size: cover;
+background-attachment: fixed;
+
+}
+.container{
+    position: absolute;
+    padding-bottom: 180px;
+    text-align: center;
+    backdrop-filter: blur(0.6px);
+ background: linear-gradient(rgba(0,0,0,0.4), rgba(216, 47, 47, 0.7));
+
+  
+margin-top: 10%;
+margin-left: 30%;
+/*margin-right: 450px;*/
+opacity: 0.7;
+
+font-size: medium;
+border-radius: 15px;
+
+
+}
+.div1{
+   
+margin-bottom: 30px;
+
+
+}
+.div2{
+    
+margin-bottom: 70px;
+
+
+}
+input{
+background:transparent;
+text-decoration: solid;
+font-size: large;
+padding-top: 8px;
+padding-left:20px ;
+padding-right: 20px;
+
+color: black;
+
+
+border: none;
+
+border-bottom: 0.8px solid black;
+
+
+}
+
+button{
+padding-left: 60px;
+padding-right: 60px;
+padding-top: 5px;
+padding-bottom: 5px;
+border-radius:15px ;
+background: green;
+
+}
+
+
+
+
+
